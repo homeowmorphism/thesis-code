@@ -67,4 +67,4 @@ true
 ```
 
 ## Acknowledgement
-This project was done as part of my PhD research, which couldn't have happened without the guidance of [Yago Antolín](https://sites.google.com/site/yagoanpi/). 
+This project was done as part of my PhD research, which couldn't have happened without the guidance of my supervisor [Yago Antolín](https://sites.google.com/site/yagoanpi/). 
