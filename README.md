@@ -1,8 +1,8 @@
 # Thesis code
 
-Here are the code snippets that was discussed Chapter 12 and the Appendix of my PhD thesis "A toolbox for left-orders of low complexity" available at: https://arxiv.org/pdf/2512.07035. 
+Here are the code snippets that was discussed Chapter 12 and the Appendix of my PhD thesis "A toolbox for left-orders of low complexity" available at: https://arxiv.org/pdf/2512.07035.
 
-This package does GAP computations for the family of groups $$\Gamma_n = \langle a,b \mid ba^nb = a \rangle$$ discovered in Navas' paper *A remarkable family of left orderable groups: central extensions of Hecke groups*, which can be found here: https://arxiv.org/abs/0909.4994v2. 
+This package does GAP computations for the family of groups $$\Gamma_n = \langle a,b \mid ba^nb = a \rangle$$ discovered in Navas' paper *A remarkable family of left orderable groups: central extensions of Hecke groups*, which can be found here: https://arxiv.org/abs/0909.4994v2. This code helped conjecture then prove the existence of infinite families of groups with positive cones of rank $k$, for every $k \geq 3$. It settled the main question of Navas' paper. The results of these computations were also used construct positive cones with finite generating set for groups of the form $F_{2n}\times \mathbb{Z}$, extending a [result](https://arxiv.org/abs/1709.02348) of Malicet, Mann, Rivas, and Triestino (2019). (The research paper publishing this result is in writing.)
 
 ## ker_phi.g
 
