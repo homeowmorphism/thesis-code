@@ -1,4 +1,4 @@
-# Infinite families of groups with positive cones of rank k
+# Infinite families of groups with positive cones of rank k ≥ 3
 
 This package does GAP computations for the family of groups $$\Gamma_n = \langle a,b \mid ba^nb = a \rangle$$ discovered in Navas' paper *A remarkable family of left orderable groups: central extensions of Hecke groups*, which can be found here: https://arxiv.org/abs/0909.4994v2. This code helped conjecture then prove the existence of infinite families of groups with positive cones of rank $k$, for every $k \geq 3$ giving a full answer to the main question of Navas' paper. We then worked out a formal proof of this result which was published in *Formal Language Convexity in Left-Orderable Groups.* Internat. J. Algebra Comput., arXiv:[1905.13001](https://arxiv.org/abs/1905.13001). 
 
